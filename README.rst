@@ -1,7 +1,8 @@
 Following the the great resource for airflow to get a better grip of it.
 
 
-ORIGINAL READIME:
+ORIGINAL README:
+
 *** Welcome to the ETL Best practices with airflow repository.
 
 This is the source code for all the documentation, which is hosted at:
